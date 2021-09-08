@@ -2,4 +2,4 @@
 
 开山之作。The pioneer.
 
-![Accelerator](1.png)
+![Accelerator](./1.png)
