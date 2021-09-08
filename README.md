@@ -3,13 +3,13 @@ Articles related to neural networks accelerator from top conferences and journal
 
 ## 1 Contents
 
-### 1.1 Contents by Year and Conference/Journal
+### Contents by Year and Conference/Journal
 
 - [Conference Paper](#conference-paper)
     - 2014: [ASPLOS](#asplos-2014), [MICRO](#micro-2014)
 - [Journal Paper](journal-paper)
 
-### 1.2 Contents by Tag
+### Contents by Tag
 
 - Dataflow
 - Sparsity
