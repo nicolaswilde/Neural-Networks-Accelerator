@@ -7,6 +7,7 @@ Articles related to neural networks accelerator from top conferences and journal
 
 - [Conference Paper](#conference-paper)
     - 2014: [ASPLOS](#asplos-2014), [MICRO](#micro-2014)
+    - 2015: [ASPLOS](#asplos-2015)
 - [Journal Paper](journal-paper)
 
 ### Contents by Tag
@@ -23,6 +24,9 @@ Articles related to neural networks accelerator from top conferences and journal
 
 #### MICRO 2014
 - [DaDianNao: A Machine-Learning Supercomputer](/2014/MICRO/DaDianNao-A-Machine-Learning-Supercomputer/paper.md), (ICT, Inria, UCAS, Inner Mongolia University)
+
+#### ASPLOS 2015
+- [PuDianNao: A Polyvalent Machine Learning Accelerator](/2015/ASPLOS/PuDianNao-A-Polyvalent-Machine-Learning-Accelerator/paper.md), (ICT, Inria, USTC)
 
 ### Journal Paper
 
