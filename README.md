@@ -19,11 +19,10 @@ Articles related to neural networks accelerator from top conferences and journal
 ### Conference Paper
 
 #### ASPLOS 2014
-
 - [DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning](/2014/ASPLOS/DianNao-A-Small-Footprint-High-Throughput-Accelerator/paper.md), (ICT, Inria)
-- [DaDianNao: A Machine-Learning Supercomputer](/2014/MICRO/DaDianNao-A-Machine-Learning-Supercomputer/paper.md)
 
 #### MICRO 2014
+- [DaDianNao: A Machine-Learning Supercomputer](/2014/MICRO/DaDianNao-A-Machine-Learning-Supercomputer/paper.md)
 
 ### Journal Paper
 
