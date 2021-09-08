@@ -1,7 +1,7 @@
 # Neural-Networks-Accelerator
 Articles related to neural networks accelerator from top conferences and journals.
 
-## 1 Contents
+## 1. Contents
 
 ### Contents by Year and Conference/Journal
 
@@ -11,10 +11,10 @@ Articles related to neural networks accelerator from top conferences and journal
 
 ### Contents by Tag
 
-- Dataflow
-- Sparsity
+- [Dataflow](#dataflow)
+- [Sparsity](#sparsity)
 
-## 2 Papers
+## 2. Papers
 
 ### Conference Paper
 
@@ -24,4 +24,8 @@ Articles related to neural networks accelerator from top conferences and journal
 
 ### Journal Paper
 
-## 3 Tags
+## 3. Tags
+
+### Dataflow
+
+### Sparsity
