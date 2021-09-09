@@ -5,6 +5,8 @@ I will keep updating the list and taking notes for the papers. If the descriptio
 
 Please tell me if I accidentally leave out your masterpiece.
 
+Another excellent repository for articles related to neural networks accelerator: https://github.com/fengbintu/Neural-Networks-on-Silicon.
+
 ## 1. Contents
 
 ### Contents by Year and Conference/Journal
@@ -12,6 +14,7 @@ Please tell me if I accidentally leave out your masterpiece.
 - [Conference Paper](#conference-paper)
     - 2014: [ASPLOS](#asplos-2014), [MICRO](#micro-2014)
     - 2015: [ASPLOS](#asplos-2015), [ISCA](#isca-2015), [FPGA](#fpga-2015)
+    - 2016: [HPCA](#hpca-2016)
 - [Journal Paper](journal-paper)
 
 ### Contents by Tag
@@ -45,6 +48,9 @@ Please tell me if I accidentally leave out your masterpiece.
 
 #### FPGA 2015
 - [Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks](/2015/FPGA/Optimizing-FPGA-based-Accelerator-Design-for-Deep-Convolutional-Neural-Networks/note.md), ([PKU](#pku), [UCLA](#ucla)), [FPGA 2015](#fpga-2015)
+
+#### HPCA 2016
+
 
 ### Journal Paper
 
